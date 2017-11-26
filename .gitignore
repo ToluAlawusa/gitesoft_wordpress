@@ -1,0 +1,15 @@
+*~
+.DS_Store
+.svn
+.cvs
+*.bak
+*.swp
+Thumbs.db
+wp-config.php
+*.log
+sitemap.xml
+sitemap.xml.gz
+wp-content/*
+!wp-content/plugins/
+!wp-content/themes/
+.htaccess
